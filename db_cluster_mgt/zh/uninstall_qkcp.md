@@ -1,5 +1,5 @@
 ---
-title: "在 KubeSphere 中部署 RadonDB MySQL"
+title: "卸载 QKCP"
 keywords: 'KubeSphere, Kubernetes, 安装, RadonDB MySQL'
 description: '了解如何从 KubeSphere 应用商店部署 RadonDB MySQL。'
 linkTitle: "在 KubeSphere 中部署 RadonDB MySQL"
@@ -7,7 +7,6 @@ weight: 14293
 ---
 
 [RadonDB MySQL](https://github.com/radondb/radondb-mysql-kubernetes) 是基于 [MySQL](https://MySQL.org) 的开源、云原生、高可用集群解决方案。通过使用 Raft 协议，RadonDB MySQL 可以快速进行故障转移，且不会丢失任何事务。
-
 
 本教程演示如何从 KubeSphere 应用商店部署 RadonDB MySQL。
 
